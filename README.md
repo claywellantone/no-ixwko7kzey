@@ -1,2 +1,3 @@
-# no-ixwko7kzey
-no-ixwko7kzey
+# prepare-ed
+
+Small verify helpers used by our init pipeline.
