@@ -1,3 +1,3 @@
-# prepare-ed
+# start-b7
 
-Small verify helpers used by our init pipeline.
+Small setup helpers used by our start pipeline.
